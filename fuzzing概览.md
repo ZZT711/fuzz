@@ -167,7 +167,7 @@ s.t.\quad
 \end{aligned}
 $$
 
-![1](.\图片\1.jpg)
+![image](.\图片\1.jpg)
 
 
 
