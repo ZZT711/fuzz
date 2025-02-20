@@ -173,7 +173,7 @@ $$
 
 ### 综合算法：优化框架
 
-![2](.\图片\2.jpg)
+![image](https://github.com/ZZT711/fuzz/blob/main/%E5%9B%BE%E7%89%87/2.jpg)
 
 ```python
 1: Initialize FSM \(S\), Seed Queue \(Q \leftarrow q_0\), Time \(T \leftarrow 0\), DP Table \(dp\)   
