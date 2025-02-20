@@ -167,7 +167,7 @@ s.t.\quad
 \end{aligned}
 $$
 
-![image](.\图片\1.jpg)
+![image](https://github.com/ZZT711/fuzz/blob/main/%E5%9B%BE%E7%89%87/1.jpg)
 
 
 
